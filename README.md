@@ -6,7 +6,7 @@ sandbox
 
 <head>
   <title>JS Demo</title>
-  <script src="app.js"></script>
+
 </head>
 
 <body>
